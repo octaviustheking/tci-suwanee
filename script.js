@@ -1,7 +1,3 @@
-// ==========================================
-// Crescendo Initiative - Connecting Through Music
-// JavaScript Functionality
-// ==========================================
 
 AOS.init({
     duration: 800,
@@ -111,7 +107,7 @@ function initializeCalendar() {
         height: 'auto',
         events: [
             {
-                title: 'Crescendo Concert - Sunrise Johns Creek',
+                title: 'Concerto Concert - Sunrise Johns Creek',
                 start: '2025-09-06T15:30:00',
                 end: '2025-09-06T16:15:00',
                 extendedProps: {
@@ -122,7 +118,7 @@ function initializeCalendar() {
                 }
             },
             {
-                title: 'Crescendo Concert - Oaks Shiloh Point',
+                title: 'Concerto Concert - Oaks Shiloh Point',
                 start: '2025-10-05T13:00:00',
                 end: '2025-10-05T13:45:00',
                 extendedProps: {
@@ -133,7 +129,7 @@ function initializeCalendar() {
                 }
             },
             {
-                title: 'Crescendo Concert - Towne Club Windermere',
+                title: 'Concerto Concert - Towne Club Windermere',
                 start: '2025-10-11T12:00:00',
                 end: '2025-10-11T13:00:00',
                 extendedProps: {
@@ -144,7 +140,7 @@ function initializeCalendar() {
                 }
             },
             {
-                title: 'Crescendo Concert - Sunrise Johns Creek',
+                title: 'Concerto Concert - Sunrise Johns Creek',
                 start: '2025-10-26T13:30:00',
                 end: '2025-10-26T14:15:00',
                 extendedProps: {
@@ -155,7 +151,7 @@ function initializeCalendar() {
                 }
             },
             {
-                title: 'Crescendo Concert - Sunrise Johns Creek',
+                title: 'Concerto Concert - Sunrise Johns Creek',
                 start: '2025-11-22T13:30:00',
                 end: '2025-11-22T14:15:00',
                 extendedProps: {
@@ -166,7 +162,7 @@ function initializeCalendar() {
                 }
             },
             {
-                title: 'Crescendo Concert - Antebellum',
+                title: 'Concerto Concert - Antebellum',
                 start: '2025-12-22T13:00:00',
                 end: '2025-12-22T13:45:00',
                 extendedProps: {

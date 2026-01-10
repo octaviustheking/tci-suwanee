@@ -1,5 +1,13 @@
+1/10/25
+  Workers - ImmatureGoat
+  Things changed:
+    update name of crescendo to concerto
+    change logo
+
+
 12/16/25
   Workers - ImmatureGoat
+  Thigns changed:
     added domain (suwaneecrescendo.vercel.app)
     update musicians
     update number of musicians and concerts
